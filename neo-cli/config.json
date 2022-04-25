@@ -18,10 +18,11 @@
 
     },
     "UnlockWallet": {
-      "Path": "",
-      "Password": "",
-      "IsActive": false
-    }
+      "Path": "wallet.json",
+      "Password": "1",
+      "IsActive": true
+    },
+    "PluginURL": "https://github.com/neo-project/neo-modules/releases/download/v{1}/{0}.zip" 
   },
   "ProtocolConfiguration": {
     "Network": 860833102,

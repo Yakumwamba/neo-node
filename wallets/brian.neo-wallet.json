@@ -1,0 +1,29 @@
+{
+  "name": "brian",
+  "version": "1.0",
+  "scrypt": {
+    "n": 16384,
+    "r": 8,
+    "p": 8,
+    "size": 64
+  },
+  "accounts": [
+    {
+      "address": "NaWrFQCgmVzGrFTFEMHoStcgzRYYEtjPJe",
+      "label": "Default account",
+      "isDefault": true,
+      "lock": false,
+      "key": "6PYQuS4DiRn7rufQTqAMqxiifLJnmojRPUQoaKcDNY4CQZbp8zs9rVr8f7",
+      "contract": {
+        "script": "DCEDmPNeAlW5x55V4qmHSV9Gj5RhtZbCo6UXlc3jRZXwHcpBVuezJw==",
+        "parameters": [
+          {
+            "name": "signature",
+            "type": "Signature"
+          }
+        ],
+        "deployed": false
+      }
+    }
+  ]
+}
